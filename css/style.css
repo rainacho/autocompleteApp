@@ -1,0 +1,5 @@
+#match-list {
+	max-height: 150px;
+	line-height: 14px;
+	overflow-y: auto;
+}
